@@ -14,11 +14,13 @@ nav ul li, footer ul li {
     font-size: 1em;
     line-height: 1.3em;
     color: #46050F;
+    list-style-position: outside;
 }
 
 li {
-    padding-left: 26px;
+    padding-left: 16px;
     color:  #46050F; 
+    list-style-position: outside;
 }
 a {
     text-decoration: none;
@@ -49,4 +51,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    list-style-position: outside;
 }
