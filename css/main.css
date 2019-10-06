@@ -17,8 +17,8 @@ nav ul li, footer ul li {
 }
 
 li {
-    padding-left: 16px;
-    list-style-position: inside;
+    padding-left: 26px;
+    list-style-position: outside;
     color:  #46050F; 
 }
 a {
