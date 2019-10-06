@@ -15,6 +15,12 @@ nav ul li, footer ul li {
     line-height: 1.3em;
     color: #46050F;
 }
+
+li {
+    padding-left: 16px;
+    list-style-position: inside;
+    color:  #46050F; 
+}
 a {
     text-decoration: none;
     color: #000000;
