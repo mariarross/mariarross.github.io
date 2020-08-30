@@ -1,6 +1,6 @@
 body {
-    margin: 60px auto;
-    width: 66%;
+    margin-right: 60px auto;
+    margin-left: 200px;
 }
 nav ul, footer ul {
     font-family:'Times', 'Times', 'Serif';
